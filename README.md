@@ -2,7 +2,7 @@
 
 **An Autonomous Bot Based On Image processing And Breadth-First Search Path Finding Algorithm.**
 
-This project is based on the instructions in the following [Problem Statement](https://github.com/ujju20/Vision/blob/main/Vision2.0%20Problem%20Statement-1.pdf).
+This project is based on the instructions in the following [Problem Statement](https://github.com/pankaj1251/Vision-2.0/blob/main/Vision2.0%20Problem%20Statement-1.pdf).
 
 ![Arena image](https://github.com/ujju20/Vision-/blob/main/test.png)
 
