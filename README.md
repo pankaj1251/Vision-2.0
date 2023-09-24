@@ -14,7 +14,7 @@ Along with this repository, it is needed to have the following repository:
 
 Could you follow the steps in these repositories and install the required packages?
 
-You can run [Solution.ipynb](https://github.com/ujju20/Vision/blob/main/solution.ipynb) on the terminal.
+You can run [Solution.ipynb](https://github.com/pankaj1251/Vision-2.0/blob/main/solution.ipynb) on the terminal.
 
 # Approach
 
